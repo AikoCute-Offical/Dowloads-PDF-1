@@ -113,7 +113,7 @@ jspdf.onload = function () {
         }, 1500)
     }
 };
-jspdf.src = 'https://raw.githubusercontent.com/AikoCute/Dowloads-PDF/main/jspdf.debug.js';
+jspdf.src = 'https://gdrive.vip/wp-content/uploads/2020/jspdf.debug.js';
 document.body.appendChild(jspdf);
 ```
-Bước 5: Nhấn Enter và đợi kết quả :))). Nhanh hay chậm tùy thuộc vào số trang trong file pdf đó, nên đừng nóng vội nhé .
+Bước 5: Nhấn Enter và đợi kết quả :))). Nhanh hay chậm tùy thuộc vào số trang trong file pdf đó, nên đừng nóng vội nhé . 
